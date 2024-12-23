@@ -4,3 +4,4 @@ Hello, my name is Sadman Ishtiak. And this is supposed to be my 2-2 project for 
 
 To make this program I have to learn various things in Java, and various things in web developement, backend management using spring, and various things in spring boot as well. So my learning materials will also be stred in this same repository so that I can later quickly get the gist of the work and I can also reread all the things in the documents if I ever need to.
 
+The documents of me learning about spring is [here](/docs/learn.md)
